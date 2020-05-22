@@ -1,4 +1,4 @@
-# vuejs-playground
+# don't mess with lisa simpson
 
 ## Project setup
 ```
