@@ -43,16 +43,9 @@ export default {
 <style>
 #app {
   margin-top: 30px;
-  font: 1.2em "Fira Sans", sans-serif;
-}
-button {
-  font-size: 1em;
 }
 .error {
   color: #bf616a;
-}
-.deja-vue {
-  color: #88c0d0;
 }
 .lisa {
   font: 1.5em;
