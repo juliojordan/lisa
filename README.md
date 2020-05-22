@@ -1,4 +1,4 @@
-# vuejs-playground
+# don't mess with lisa simpson
 
 ## Project setup
 ```
@@ -22,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# lisa
