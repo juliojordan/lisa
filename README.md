@@ -1,4 +1,4 @@
-# Don't mess with lisa simpson
+# don't mess with lisa simpson
 
 ## Project setup
 ```
